@@ -1,0 +1,10 @@
+**/build/
+**/.dart_tool/
+**/.idea/
+**/.flutter-plugins-dependencies
+**/local.properties
+**/*.iml
+**/key.properties
+**/*.jks
+**/*.keystore
+**/secrets.json

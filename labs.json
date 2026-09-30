@@ -1,0 +1,38 @@
+[
+  {
+    "name": "lab01_i_am_rich",
+    "title": "I Am Rich"
+  },
+  {
+    "name": "lab02_mi_card",
+    "title": "MiCard"
+  },
+  {
+    "name": "lab03_dicee",
+    "title": "Dicee"
+  },
+  {
+    "name": "lab04_magic_8_ball",
+    "title": "Magic 8 Ball"
+  },
+  {
+    "name": "lab05_xylophone",
+    "title": "Xylophone"
+  },
+  {
+    "name": "lab06_quizzler",
+    "title": "Quizzler"
+  },
+  {
+    "name": "lab07_destini",
+    "title": "Destini"
+  },
+  {
+    "name": "lab08_bmi_calculator",
+    "title": "BMI Calculator"
+  },
+  {
+    "name": "lab09_clima",
+    "title": "Clima"
+  }
+]

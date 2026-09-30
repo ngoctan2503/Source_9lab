@@ -1,0 +1,34 @@
+{
+  "folders": [
+    {
+      "path": "apps/lab01_i_am_rich"
+    },
+    {
+      "path": "apps/lab02_mi_card"
+    },
+    {
+      "path": "apps/lab03_dicee"
+    },
+    {
+      "path": "apps/lab04_magic_8_ball"
+    },
+    {
+      "path": "apps/lab05_xylophone"
+    },
+    {
+      "path": "apps/lab06_quizzler"
+    },
+    {
+      "path": "apps/lab07_destini"
+    },
+    {
+      "path": "apps/lab08_bmi_calculator"
+    },
+    {
+      "path": "apps/lab09_clima"
+    }
+  ],
+  "settings": {
+    "editor.formatOnSave": true
+  }
+}
